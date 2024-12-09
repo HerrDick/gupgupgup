@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5678e58ac0357d94684e6a51cd17f868
+guid: c0a4c87aef83a5c40a8f3d78965c05b8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: gege_0
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 111
+        width: 303
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ecf0c436f6584fb4b31038f7afe41
+      internalID: -556378214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gege_1
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 121
+        width: 301
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9e0252630d3d640890244a0979bdf2
+      internalID: 1118913535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gege_2
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 111
+        width: 297
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d78739c29c9e54f841fd6755bd6af1
+      internalID: -1232512974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gege_3
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 113
+        width: 425
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92a0fbe2e418ba46b4d8315059e2527
+      internalID: 934846213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +190,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gege_0: -556378214
+      gege_1: 1118913535
+      gege_2: -1232512974
+      gege_3: 934846213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
